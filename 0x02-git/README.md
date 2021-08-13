@@ -1,1 +1,1 @@
-**This is Mogess alx pre-course reame file**
+**Make sure your commit and push your code to Github - otherwise the Checker will always fail.**
